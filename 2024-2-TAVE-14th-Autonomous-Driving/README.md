@@ -1,9 +1,9 @@
-<p><sub>2024-2 TAVE 14기 자율주행 프로젝트</sub></p>
+<h3><strong>2024-2 TAVE 14기 자율주행 프로젝트</strong></h3>
 
 <p><sub>분야: 차선 인식 · 차량 제어 · Raspberry Pi</sub></p>
 <p><sub>구성: 주행 코드 · 모델 가중치 · 학습 자료</sub></p>
 
-<p><sub>구조</sub></p>
+<h4><strong>구조</strong></h4>
 
 <pre><code>2024-2-TAVE-14th-Autonomous-Driving/
 ├── README.md
@@ -15,7 +15,7 @@
         ├── 차량 제어 코드
         └── 실험 자료</code></pre>
 
-<p><sub>주요 구성</sub></p>
+<h4><strong>주요 구성</strong></h4>
 
 <ul>
   <li><sub><code>data.py</code>: 데이터 처리</sub></li>
